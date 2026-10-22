@@ -1,0 +1,13 @@
+{
+    "cust_code": "CP100",
+    "cust_name": "Aau",
+    "cust_type": "Company",
+    "contact_person" : "contact person",
+    "email" : "aau2@gmail.com",
+    "phone":"2115639874",
+    "address_line":"Deccan",
+    "city":"Pune",
+    "state":"Maharashtra",
+    "gst_number":"MHPU54215563245",
+    "status":"Active"
+}
